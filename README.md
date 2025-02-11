@@ -1,9 +1,8 @@
-In Greek mythology, Spartans are said to have used Scytales as tools to deliver encrypted messages during military campaigns.
+In Greek mythology, Spartans are believed to have used Scytales as tools for encrypting and securely transmitting messages during military campaigns.
 
-Scytales were cylindrical structure with letters engraved on strip of parchment wound around it and used 'transposition cipher' mechanism. 
+A Scytale consisted of a cylindrical structure with a strip of parchment wound around it. Messages were inscribed on the parchment, and the "transposition cipher" mechanism was used to rearrange the letters for encryption. Only those with an identical Scytale could decode the message.
 
-Scytale helps encrypt the selected files using some user-given-key and transmitt them to amazon servers usign AWS.
+Inspired by this ancient encryption technique, Scytale is a tool that encrypts selected files using a user-provided key and securely transmits them to Amazon servers via AWS.
 
-You can download the files but can't unlock them, if you don't have the key.
+Files can be downloaded, but without the correct key, they remain locked and inaccessible.
 
-God Bless!
